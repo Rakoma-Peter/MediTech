@@ -1,0 +1,8 @@
+C:\Users\rakom\source\repos\Meditech\Meditech\bin\Debug\Meditech.exe.config
+C:\Users\rakom\source\repos\Meditech\Meditech\bin\Debug\Meditech.exe
+C:\Users\rakom\source\repos\Meditech\Meditech\bin\Debug\Meditech.pdb
+C:\Users\rakom\source\repos\Meditech\Meditech\obj\Debug\Meditech.csproj.AssemblyReference.cache
+C:\Users\rakom\source\repos\Meditech\Meditech\obj\Debug\Meditech.csproj.CoreCompileInputs.cache
+C:\Users\rakom\source\repos\Meditech\Meditech\obj\Debug\Meditech.exe
+C:\Users\rakom\source\repos\Meditech\Meditech\obj\Debug\Meditech.pdb
+C:\Users\rakom\source\repos\Meditech\Meditech\bin\Debug\Files\MeditechIn.txt
